@@ -2,10 +2,10 @@
 
 Class Database {
 
-    private $host = "eu-cdbr-west-02.cleardb.net";
-    private $database_name = "heroku_e4f2db4d9585338";
-    private $username = "bf41c4382ba64d";
-    private $password = "3d66820f";
+    private $host = " ";
+    private $database_name = " ";
+    private $username = " ";
+    private $password = " ";
 
     public $conn;
 
